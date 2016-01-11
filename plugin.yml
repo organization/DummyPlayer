@@ -1,0 +1,5 @@
+name: DummyPlayer
+main: DummyPlayer\Main
+version: 1.0
+author: hm
+api: [2.0.0]
